@@ -100,6 +100,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial.
 - [Todo List](https://github.com/lesnitsky/todolist_flutter) [259⭐] – Step by step tutorial how to build Todo List with Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_dev)
 - [Flutter and Dart development](https://suragch.medium.com/flutter-and-dart-development-articles-981be9ef7b23) - Articles and tutorials by [Suragch](https://twitter.com/Suragch1).
+- [Integrating Socket IO](https://medium.com/flutter-community/flutter-integrating-socket-io-client-2a8f6e208810) - Step by step tutorial to integrate socket IO client with Flutter by [Hussain](https://github.com/hussainhabib2).
 
 ### Beginner
 
@@ -107,10 +108,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski).
 - [Getting Started with Flutter](https://www.raywenderlich.com/24499516-getting-started-with-flutter) - by [raywenderlich.com](https://www.raywenderlich.com).
 - [Beginner's Guide](https://github.com/antz22/ultimate-guide-to-flutter) [123⭐] - Comprehensive guide to the basics of Flutter and Firebase by [Anthony](https://github.com/antz22).
+- [Null Safety & Null Aware operators](https://medium.com/flutter-community/null-aware-operators-281c18407afe) - Demonstrating the use of Null-Safety with extensive examples by [Hussain](https://github.com/hussainhabib2).
 
 ### Intermediate
 
 - [Flutter state management for minimalists](https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1?sk=6f9cedfb550ca9cc7f88317e2e7055a0) - Understanding app architecture without relying on third-party frameworks by [Suragch](https://twitter.com/Suragch1). See also [State Management](#state-management).
+- [Flutter Hooks](https://medium.com/flutter-community/reduce-boilerplate-code-with-hooks-94694f1ef8b0) - Reducing boilerplate code using Flutter Hooks by [Hussain](https://github.com/hussainhabib2).
+- [Private Flutter Package](https://medium.com/flutter-community/make-your-private-flutter-package-23a75ba899) - Creating your own private flutter package hosted on GitHub by [Hussain](https://github.com/hussainhabib2).
 
 ### Advanced
 
@@ -130,6 +134,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Parallax Effect](https://marcinszalek.pl/flutter/tickets-challenge-parallax) - Parallax & non linear animation by [Marcin Szalek](https://marcinszalek.pl).
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36)  - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
 - [Build Flavor](https://medium.com/@angeloavv/easily-build-flavors-in-flutter-android-and-ios-with-flutter-flavorizr-d48cbf956e4) - Easily build flavors in Flutter (Android and iOS) with flutter_flavorizr by [Angelo Cassano](https://medium.com/@angeloavv).
+- [Changing App Icon](https://medium.com/flutter-community/change-flutter-app-launcher-icon-59c31bcd7554) - How to change your flutter app icon without using package by [Hussain](https://github.com/hussainhabib2).
 
 ## Videos
 
